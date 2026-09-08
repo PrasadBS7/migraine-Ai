@@ -216,3 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Keep datasets private — never commit these
+data/*.csv
+*.csv
